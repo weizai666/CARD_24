@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc7c798b-ba6e-45fe-98ef-fe506d48b4e2" name="Default Changelist" comment="CARD_24 game">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CARD_24.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CARD_24/单双链表/Array1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CARD_24/单双链表/CirDoublyList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CARD_24/单双链表/DoubleNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CARD_24/单双链表/DoublelinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CARD_24/单双链表/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CARD_24/单双链表/SeqList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CARD_24/单双链表/SinglyList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CARD_24/单双链表/SortedCirDoublyList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CARD_24/单双链表/SortedSeqList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CARD_24/单双链表/SortedSinglyList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CARD_24/栈和队列/Bracket.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CARD_24/栈和队列/Expression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CARD_24/栈和队列/LinkedQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CARD_24/栈和队列/LinkedStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CARD_24/栈和队列/NumberTower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CARD_24/栈和队列/PrimeRing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CARD_24/栈和队列/Queue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CARD_24/栈和队列/SeqQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CARD_24/栈和队列/SeqStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CARD_24/栈和队列/Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CARD_24/课设java/CardBuffer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CARD_24/课设java/Card_24.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CARD_24/课设java/Card_24File_byte.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CARD_24/课设java/Card_24File_char.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CARD_24/课设java/DealCardTCPServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CARD_24/课设java/Expression_24.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CARD_24/课设java/ReceiveCardJFrame$MessageJDialog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CARD_24/课设java/ReceiveCardJFrame$Tim.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CARD_24/课设java/ReceiveCardJFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/单双链表/Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/单双链表/CirDoublyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/单双链表/DoubleNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/单双链表/DoublelinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/单双链表/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/单双链表/SeqList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/单双链表/SinglyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/单双链表/SortedCirDoublyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/单双链表/SortedSeqList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/单双链表/SortedSinglyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/栈和队列/Bracket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/栈和队列/Expression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/栈和队列/LinkedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/栈和队列/LinkedStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/栈和队列/NumberTower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/栈和队列/PrimeRing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/栈和队列/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/栈和队列/SeqQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/栈和队列/SeqStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/栈和队列/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/课设java/CardBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/课设java/Card_24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/课设java/Card_24File_byte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/课设java/Card_24File_char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/课设java/DealCardTCPServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/课设java/Expression_24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/课设java/ReceiveCardJFrame.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\10259\IdeaProjects\CARD_24\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WeYY0lxxorXrWXyVif2sITfvsX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\10259\IdeaProjects\CARD_24\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ReceiveCardJFrame">
+    <configuration name="DealCardTCPServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="课设java.DealCardTCPServer" />
+      <module name="CARD_24" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="课设java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReceiveCardJFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="课设java.ReceiveCardJFrame" />
+      <module name="CARD_24" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="课设java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReceiveCardJFrame" />
+        <item itemvalue="Application.DealCardTCPServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc7c798b-ba6e-45fe-98ef-fe506d48b4e2" name="Default Changelist" comment="" />
+      <created>1579511571749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579511571749</updated>
+      <workItem from="1579511579009" duration="3624000" />
+      <workItem from="1579515299894" duration="1953000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="CARD_24 game" />
+    <option name="LAST_COMMIT_MESSAGE" value="CARD_24 game" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="292" y="0" key="CommitChangelistDialog2" timestamp="1579518251637">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="292" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579518251637" />
+    <state x="463" y="108" key="FileChooserDialogImpl" timestamp="1579517680915">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579517680915" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1579515240472">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579515240472" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1579515240471">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579515240471" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1579515240471">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579515240471" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1579515240472">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579515240472" />
+    <state x="452" y="77" key="RollbackChangesDialog" timestamp="1579515532562">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="452" y="77" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1579515532562" />
+    <state x="28" y="19" key="SettingsEditor" timestamp="1579518156867">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="28" y="19" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579518156867" />
+    <state x="375" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1579515334602">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579515334602" />
+    <state x="499" y="243" key="git4idea.rebase.GitRebaseDialog" timestamp="1579515629445">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="243" key="git4idea.rebase.GitRebaseDialog/0.0.1366.728@0.0.1366.728" timestamp="1579515629445" />
+    <state x="480" y="270" key="git4idea.ui.GitResetDialog" timestamp="1579515745589">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="480" y="270" key="git4idea.ui.GitResetDialog/0.0.1366.728@0.0.1366.728" timestamp="1579515745589" />
+    <state x="442" y="204" key="git4idea.ui.GitUnstashDialog" timestamp="1579515652707">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="442" y="204" key="git4idea.ui.GitUnstashDialog/0.0.1366.728@0.0.1366.728" timestamp="1579515652707" />
+  </component>
+</project>
